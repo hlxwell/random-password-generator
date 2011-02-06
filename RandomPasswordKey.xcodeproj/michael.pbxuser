@@ -1,0 +1,328 @@
+// !$*UTF8*$!
+{
+	1D3623240D0F684500981E51 /* RandomPasswordKeyAppDelegate.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {753, 622}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 537}";
+		};
+	};
+	1D3623250D0F684500981E51 /* RandomPasswordKeyAppDelegate.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1965, 1092}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 736}";
+		};
+	};
+	1D6058900D05DD3D006BFB54 /* RandomPasswordKey */ = {
+		activeExec = 0;
+		executables = (
+			4C564DB712F6AE8600FFA8DD /* RandomPasswordKey */,
+		);
+	};
+	28D7ACF60DDB3853001CB0EB /* RandomPasswordKeyViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {754, 351}}";
+			sepNavSelRange = "{612, 0}";
+			sepNavVisRange = "{0, 618}";
+		};
+	};
+	28D7ACF70DDB3853001CB0EB /* RandomPasswordKeyViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1104, 1183}}";
+			sepNavSelRange = "{2007, 0}";
+			sepNavVisRange = "{833, 1712}";
+			sepNavWindowFrame = "{{15, 65}, {1044, 708}}";
+		};
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 4C564DB712F6AE8600FFA8DD /* RandomPasswordKey */;
+		activeSDKPreference = iphoneos4.2;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* RandomPasswordKey */;
+		addToTargets = (
+			1D6058900D05DD3D006BFB54 /* RandomPasswordKey */,
+		);
+		codeSenseManager = 4C564DD112F6AE9C00FFA8DD /* Code sense */;
+		executables = (
+			4C564DB712F6AE8600FFA8DD /* RandomPasswordKey */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					644,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 318315153;
+			PBXWorkspaceStateSaveDate = 318315153;
+		};
+		perUserProjectItems = {
+			4C45492712F9D6E900B16772 /* PBXTextBookmark */ = 4C45492712F9D6E900B16772 /* PBXTextBookmark */;
+			4C564E4D12F6B7D500FFA8DD /* PBXTextBookmark */ = 4C564E4D12F6B7D500FFA8DD /* PBXTextBookmark */;
+			4C564F1012F6F67B00FFA8DD /* PBXTextBookmark */ = 4C564F1012F6F67B00FFA8DD /* PBXTextBookmark */;
+			4C564F2212F6FA1300FFA8DD /* PBXTextBookmark */ = 4C564F2212F6FA1300FFA8DD /* PBXTextBookmark */;
+			4C564F2B12F6FF6500FFA8DD /* PBXTextBookmark */ = 4C564F2B12F6FF6500FFA8DD /* PBXTextBookmark */;
+			4C564F2C12F6FF6500FFA8DD /* PBXTextBookmark */ = 4C564F2C12F6FF6500FFA8DD /* PBXTextBookmark */;
+			4C564F3F12F7018A00FFA8DD /* PBXTextBookmark */ = 4C564F3F12F7018A00FFA8DD /* PBXTextBookmark */;
+			4C564F6512F7042900FFA8DD /* PBXTextBookmark */ = 4C564F6512F7042900FFA8DD /* PBXTextBookmark */;
+			4C67C86C12F70C1800630926 /* PBXTextBookmark */ = 4C67C86C12F70C1800630926 /* PBXTextBookmark */;
+			4C67C86E12F70C1800630926 /* PlistBookmark */ = 4C67C86E12F70C1800630926 /* PlistBookmark */;
+			4CE1B17712F71332009FFA6D /* PBXTextBookmark */ = 4CE1B17712F71332009FFA6D /* PBXTextBookmark */;
+			4CE1B17812F71332009FFA6D /* PBXTextBookmark */ = 4CE1B17812F71332009FFA6D /* PBXTextBookmark */;
+			4CE1B17A12F71332009FFA6D /* PBXTextBookmark */ = 4CE1B17A12F71332009FFA6D /* PBXTextBookmark */;
+		};
+		sourceControlManager = 4C564DD012F6AE9C00FFA8DD /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	4C45492712F9D6E900B16772 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 4C564F0912F6F67400FFA8DD /* ConfigController.m */;
+		name = "ConfigController.m: 23";
+		rLen = 0;
+		rLoc = 613;
+		rType = 0;
+		vrLen = 871;
+		vrLoc = 379;
+	};
+	4C564DB712F6AE8600FFA8DD /* RandomPasswordKey */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = RandomPasswordKey;
+		savedGlobals = {
+		};
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	4C564DD012F6AE9C00FFA8DD /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	4C564DD112F6AE9C00FFA8DD /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	4C564E4D12F6B7D500FFA8DD /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623240D0F684500981E51 /* RandomPasswordKeyAppDelegate.h */;
+		name = "RandomPasswordKeyAppDelegate.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 537;
+		vrLoc = 0;
+	};
+	4C564EC512F6CDE900FFA8DD /* Md5.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {754, 351}}";
+			sepNavSelRange = "{206, 0}";
+			sepNavVisRange = "{0, 286}";
+		};
+	};
+	4C564EC612F6CDE900FFA8DD /* Md5.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {754, 793}}";
+			sepNavSelRange = "{764, 0}";
+			sepNavVisRange = "{0, 741}";
+		};
+	};
+	4C564F0812F6F67400FFA8DD /* ConfigController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {823, 376}}";
+			sepNavSelRange = "{176, 0}";
+			sepNavVisRange = "{0, 409}";
+		};
+	};
+	4C564F0912F6F67400FFA8DD /* ConfigController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1139, 936}}";
+			sepNavSelRange = "{613, 0}";
+			sepNavVisRange = "{379, 871}";
+			sepNavWindowFrame = "{{38, 44}, {1044, 708}}";
+		};
+	};
+	4C564F1012F6F67B00FFA8DD /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 4C564EC512F6CDE900FFA8DD /* Md5.h */;
+		name = "Md5.h: 15";
+		rLen = 0;
+		rLoc = 206;
+		rType = 0;
+		vrLen = 286;
+		vrLoc = 0;
+	};
+	4C564F2212F6FA1300FFA8DD /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 4C564F2312F6FA1300FFA8DD /* NSDateFormatter.h */;
+		name = "NSDateFormatter.h: 10";
+		rLen = 15;
+		rLoc = 263;
+		rType = 0;
+		vrLen = 997;
+		vrLoc = 0;
+	};
+	4C564F2312F6FA1300FFA8DD /* NSDateFormatter.h */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = NSDateFormatter.h;
+		path = /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSDateFormatter.h;
+		sourceTree = "<absolute>";
+	};
+	4C564F2B12F6FF6500FFA8DD /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF60DDB3853001CB0EB /* RandomPasswordKeyViewController.h */;
+		name = "RandomPasswordKeyViewController.h: 23";
+		rLen = 0;
+		rLoc = 612;
+		rType = 0;
+		vrLen = 618;
+		vrLoc = 0;
+	};
+	4C564F2C12F6FF6500FFA8DD /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* RandomPasswordKeyAppDelegate.m */;
+		name = "RandomPasswordKeyAppDelegate.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 736;
+		vrLoc = 0;
+	};
+	4C564F3F12F7018A00FFA8DD /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 4C564EC612F6CDE900FFA8DD /* Md5.m */;
+		name = "Md5.m: 28";
+		rLen = 0;
+		rLoc = 764;
+		rType = 0;
+		vrLen = 741;
+		vrLoc = 0;
+	};
+	4C564F4212F7018A00FFA8DD /* Root.plist */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = text.plist.xml;
+		name = Root.plist;
+		path = /Users/michael/Documents/iphone_application/RandomPasswordKey/Classes/Settings.bundle/Root.plist;
+		sourceTree = "<absolute>";
+	};
+	4C564F4412F7018A00FFA8DD /* Root.strings */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = text.plist.strings;
+		name = Root.strings;
+		path = /Users/michael/Documents/iphone_application/RandomPasswordKey/Classes/Settings.bundle/en.lproj/Root.strings;
+		sourceTree = "<absolute>";
+	};
+	4C564F6512F7042900FFA8DD /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 4C564F4412F7018A00FFA8DD /* Root.strings */;
+		name = "Root.strings: 7";
+		rLen = 0;
+		rLoc = 272;
+		rType = 0;
+		vrLen = 272;
+		vrLoc = 0;
+	};
+	4C67C86C12F70C1800630926 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 4C67C86D12F70C1800630926 /* UIViewController.h */;
+		name = "UIViewController.h: 136";
+		rLen = 0;
+		rLoc = 6596;
+		rType = 0;
+		vrLen = 2440;
+		vrLoc = 5587;
+	};
+	4C67C86D12F70C1800630926 /* UIViewController.h */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = UIViewController.h;
+		path = /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIViewController.h;
+		sourceTree = "<absolute>";
+	};
+	4C67C86E12F70C1800630926 /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 4C564F4212F7018A00FFA8DD /* Root.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+			PreferenceSpecifiers,
+		);
+		name = /Users/michael/Documents/iphone_application/RandomPasswordKey/Classes/Settings.bundle/Root.plist;
+		rLen = 0;
+		rLoc = 9223372036854775808;
+	};
+	4CE1B17712F71332009FFA6D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 4C564F0812F6F67400FFA8DD /* ConfigController.h */;
+		name = "ConfigController.h: 10";
+		rLen = 0;
+		rLoc = 176;
+		rType = 0;
+		vrLen = 409;
+		vrLoc = 0;
+	};
+	4CE1B17812F71332009FFA6D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* RandomPasswordKeyViewController.m */;
+		name = "RandomPasswordKeyViewController.m: 64";
+		rLen = 0;
+		rLoc = 1980;
+		rType = 0;
+		vrLen = 1077;
+		vrLoc = 1114;
+	};
+	4CE1B17A12F71332009FFA6D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 4C564F0912F6F67400FFA8DD /* ConfigController.m */;
+		name = "ConfigController.m: 23";
+		rLen = 0;
+		rLoc = 613;
+		rType = 0;
+		vrLen = 910;
+		vrLoc = 379;
+	};
+}
