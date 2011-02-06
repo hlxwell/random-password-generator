@@ -1,0 +1,4 @@
+Introduction
+============
+This is the iphone client used for generating a random password based on time and hash user specified, to use at the rails app using https://github.com/hlxwell/random-password-checker to check password.
+
