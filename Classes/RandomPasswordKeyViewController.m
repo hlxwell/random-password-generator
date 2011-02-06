@@ -41,8 +41,7 @@
 													  userInfo:nil 
 													   repeats:YES] retain];
 	[_timer fire];
-	
-	
+
     [super viewDidLoad];
 }
 
@@ -52,15 +51,23 @@
 }
 
 - (void)changeCount {
-	NSDateFormatter *date_formater = [[NSDateFormatter alloc] init];
-	[date_formater setDateFormat:@"ss"];
-	NSString * secondString = [date_formater stringFromDate:[NSDate date]];
-	timeLeftLabel.text = [NSString stringWithFormat:@"%d", 60 - [secondString intValue]];
-
-	[date_formater setDateFormat:@"YYYYMMDDhhmm"];
-	NSString * timeStamp = [date_formater stringFromDate:[NSDate date]];
+	// set gmt timezone
+	NSTimeZone * gmt = [NSTimeZone timeZoneWithAbbreviation:@"GMT"];
 	
-	if ([secondString intValue] == 0 || [passwordLabel.text intValue] == 0) {
+	// count down number
+	NSDateFormatter * date_formatter = [[NSDateFormatter alloc] init];
+	[date_formatter setTimeZone:gmt];
+	[gmt release];
+	[date_formatter setDateFormat:@"ss"];
+	NSString * countdownString = [date_formatter stringFromDate:[NSDate date]];
+	timeLeftLabel.text = [NSString stringWithFormat:@"%d", 60 - [countdownString intValue]];
+
+	// Generate the Password
+	[date_formatter setDateFormat:@"YYYYMMddhhmm"];
+	NSString * timeStamp = [date_formatter stringFromDate:[NSDate date]];
+	
+	// update the countdown string and password.
+	if ([countdownString intValue] == 0 || [passwordLabel.text intValue] == 0) {
 		NSString * md5String = [Md5 md5:[NSString stringWithFormat:@"%@%@", timeStamp, [[NSUserDefaults standardUserDefaults] stringForKey:@"secret_key"]]];
 		NSString * headString = [md5String substringWithRange:NSMakeRange(0,3)];
 		NSString * tailString = [md5String substringWithRange:NSMakeRange(29, 3)];
